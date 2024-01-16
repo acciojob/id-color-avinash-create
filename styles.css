@@ -6,8 +6,10 @@
 	border-bottom-style: solid green;
 	border-left-style: solid green;
 	border-right-style-style: solid green;
-	
-	border-width: 1px;
+	border-top-width: 1px;
+	border-left-width: 1px;
+	border-right-widthwidth: 1px;
+	border-bottom-widthwidth: 1px;
 	
 }
 #red
@@ -18,7 +20,10 @@
 	border-bottom-style: solid black;
 	border-left-style: solid black;
 	border-right-style-style: solid black;
-	border-width: 1px;
+	border-top-width: 1px;
+	border-left-width: 1px;
+	border-right-widthwidth: 1px;
+	border-bottom-widthwidth: 1px;
 }
 #green
 {
@@ -28,5 +33,8 @@
 	border-bottom-style: solid yellow;
 	border-left-style: solid yellow;
 	border-right-style-style: solid yellow;
-	border-width: 1px;
+	border-top-width: 1px;
+	border-left-width: 1px;
+	border-right-widthwidth: 1px;
+	border-bottom-widthwidth: 1px;
 }
