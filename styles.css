@@ -2,39 +2,21 @@
 #yellow
 {
 	background-color: yellow;
-	border-top-style: solid green;
-	border-bottom-style: solid green;
-	border-left-style: solid green;
-	border-right-style-style: solid green;
-	border-top-width: 1px;
-	border-left-width: 1px;
-	border-right-widthwidth: 1px;
-	border-bottom-widthwidth: 1px;
+	border-color: solid green;
+	border-width: 1px;
 	
 }
 #red
 {
 	background-color: red;
-	border-color: black;
-	border-top-style: solid black;
-	border-bottom-style: solid black;
-	border-left-style: solid black;
-	border-right-style-style: solid black;
-	border-top-width: 1px;
-	border-left-width: 1px;
-	border-right-widthwidth: 1px;
-	border-bottom-widthwidth: 1px;
+	
+	border-color: solid black;
+	border-width: 1px;
 }
 #green
 {
 	background-color: green;
-	border-color: yellow;
-	border-top-style: solid yellow;
-	border-bottom-style: solid yellow;
-	border-left-style: solid yellow;
-	border-right-style-style: solid yellow;
-	border-top-width: 1px;
-	border-left-width: 1px;
-	border-right-widthwidth: 1px;
-	border-bottom-widthwidth: 1px;
+	border-color: solid yellow;
+	border-width: 1px;
+	
 }
