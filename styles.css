@@ -2,21 +2,24 @@
 #yellow
 {
 	background-color: yellow;
-	border-color: solid green;
+	border: solid green;
 	border-width: 1px;
+	
+	 
 	
 }
 #red
 {
 	background-color: red;
 	
-	border-color: solid black;
+	border: solid black ;
 	border-width: 1px;
+	
 }
 #green
 {
 	background-color: green;
-	border-color: solid yellow;
+	border: solid yellow ;
 	border-width: 1px;
 	
 }
