@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+#p1
+{
+	background-color: yellow;
+	border-color: green;
+	border-width: 1px;
+	
+}
+#p2
+{
+	background-color: red;
+	border-color: black;
+	border-width: 1px;
+}
+#p3
+{
+	background-color: green;
+	border-color: yellow;
+	border-width: 1px;
+}
